@@ -3,9 +3,9 @@
 
 # Root README
 
-本專案收錄兩學期共 4 次資料結構作業，編號 DS1ex02 ～ DS1ex05。每個作業放在獨立資料夾，並附上原始碼與對應 README，方便維護與說明。
+This project includes 4 data structure assignments from two semesters, numbered DS1ex02 to DS1ex05. Each assignment is placed in a separate folder, with source code and corresponding README attached for easy maintenance and explanation.
 
-## 資料夾結構
+## file structure
 
 ```text
 /DS1ex02
