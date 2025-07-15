@@ -1,9 +1,6 @@
 # 2024Fall-DS-HW
 
-
-# Root README
-
-This project includes 4 data structure assignments from two semesters, numbered DS1ex02 to DS1ex05. Each assignment is placed in a separate folder, with source code and corresponding README attached for easy maintenance and explanation.
+### This project includes 4 data structure assignments from two semesters, numbered DS1ex02 to DS1ex05. Each assignment is placed in a separate folder, with source code and corresponding README attached for easy maintenance and explanation.
 
 ## file structure
 
